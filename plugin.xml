@@ -17,7 +17,7 @@
     </engines>
 
 	<!-- Load in the core background service -->
-	<dependency id="com.red_folder.phonegap.plugin.backgroundservice" url="https://github.com/Red-Folder/bgs-core.git" commit="121056366c04b79b0423aa75065ae38ec279fff6"/>
+	<dependency id="com.red_folder.phonegap.plugin.backgroundservice" url="https://github.com/josekrlos029/core.git" commit="ef2ca982a2847d82cf86d6e6933481c811cc62be"/>
 
     <!-- android -->
     <platform name="android">
